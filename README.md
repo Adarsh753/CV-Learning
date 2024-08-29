@@ -3,14 +3,9 @@ Welcome to the daily log of my Computer Vision learning journey! This repository
 
 Table of Contents
 Day 1: Basic Image Handling with OpenCV
-Day 2: Image Processing Techniques
-Day 3: Introduction to Deep Learning for Vision
-Day 4: Building a Simple Image Classification Model
-Day 5: Object Detection Fundamentals
-Day 6: Implementing Object Detection with YOLO
-Day 7: Exploring Image Segmentation
-Day 8: Advanced Topics - GANs and Style Transfer
-Reflections and Next Steps
+
+
+
 Day 1: Basic Image Handling with OpenCV
 What I Learned:
 How to read and write images using OpenCV.
