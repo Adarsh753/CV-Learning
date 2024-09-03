@@ -70,6 +70,11 @@ data = data.getbest(preftype="mp4")
 cap = cv2.VideoCapture()   #Here parameter 0 is a path of any video use for webcam
 cap.open(data.url)
 
+#Day 3 Screen recording
+
+Library Learnt - Opencv,Pyautogui,Numpy,Drawing shapes using OpenCV
+
+
 
  
 
