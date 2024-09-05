@@ -74,11 +74,15 @@ cap.open(data.url)
 
 Library Learnt - Opencv,Pyautogui,Numpy,Drawing shapes using OpenCV
 
+Day 4 - 
+You will learn these functions : cv.line(), cv.circle() , cv.rectangle(), cv.ellipse(), cv.putText() etc.
+cv2.line() : Used to draw line on an image.
+cv2.rectangle() : Used to draw rectangle on an image.
+cv2.circle() : Used to draw circle on an image.
+cv2.putText() : Used to write text on image.
+
 
 
  
-
-Note: On a daily based on my learning curve I will update this file
-
 
 Note: On a daily based on my learning curve I will update this file
