@@ -81,6 +81,8 @@ cv2.rectangle() : Used to draw rectangle on an image.
 cv2.circle() : Used to draw circle on an image.
 cv2.putText() : Used to write text on image.
 
+Day 5 : Color Picker Personal project
+
 
 
  
