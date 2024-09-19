@@ -83,7 +83,7 @@ cv2.putText() : Used to write text on image.
 
 Day 5 : Color Picker Personal project
 
-Day 6 ,7,8,9,10: Imageblending
+Day 6 ,7,8,9,10: Imageblending,BITWISE NOR,OR,AND,ObjectDetection
 
 
 
